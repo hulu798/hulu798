@@ -1,7 +1,7 @@
 # <div align="center">👋 你好，我是 hulu798</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=深圳大学学生;热爱编程和开源项目;&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=from Shenzhen University;热爱编程和开源项目;&center=true&width=380&height=45">
 </div>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 关于我
 
-- 🏫 就读于深圳大学，计算机相关专业
+- 🏫 from Shenzhen University
 - 💻 热爱编程，对软件开发和开源项目充满热情
 - 🌱 不断学习新技术，探索创新解决方案
 - 🔧 专注于开发实用工具和网站应用
