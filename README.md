@@ -1,7 +1,7 @@
 # <div align="center">👋 你好，我是 hulu798</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=from Shenzhen University;热爱编程和开源项目;&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=热爱编程和开源项目;&center=true&width=380&height=45">
 </div>
 
 <p align="center">
