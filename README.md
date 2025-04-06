@@ -17,8 +17,6 @@
 - 🏫 from Shenzhen University
 - 💻 热爱编程，对软件开发和开源项目充满热情
 - 🌱 不断学习新技术，探索创新解决方案
-- 🔧 专注于开发实用工具和网站应用
-- 🚀 喜欢解决技术难题，提高用户体验
 
 ---
 
@@ -62,7 +60,6 @@
 
 <div align="center">
   <a href="https://github.com/hulu798"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 ---
