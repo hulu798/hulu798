@@ -1,7 +1,7 @@
 # <div align="center">你好，我是 hulu798</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=热爱编程和开源项目;不断学习新技术;探索创新解决方案;&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=热爱编程和开源项目;不断学习新技术;探索创新解决方案;热衷于开源贡献;持续钻研前沿技术;寻求高效编程思路;&center=true&width=380&height=45">
 </div>
 
 <p align="center">
@@ -64,7 +64,7 @@
 
 ---
 
-> *编程不仅仅是编写代码，更是创造解决方案。*
+> *编程是创造解决方案。*
 
 <!---
 hulu798/hulu798 是一个特殊的仓库，因为它的 `README.md` 会显示在你的GitHub个人资料页面上。
