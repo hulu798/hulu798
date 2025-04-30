@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://github.com/hulu798"><img src="https://img.shields.io/badge/GitHub-hulu798-lightgrey?style=flat&logo=github"></a>
   <a href="https://hulu798.github.io"><img src="https://img.shields.io/badge/Website-hulu798.github.io-blue?style=flat&logo=google-chrome"></a>
+  <img src="https://komarev.com/ghpvc/?username=hulu798&color=brightgreen" alt="访问计数">
 </p>
 
 ---
