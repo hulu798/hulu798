@@ -51,7 +51,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hulu798&repo=go-cursor-help&theme=tokyonight)](https://github.com/hulu798/go-cursor-help)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hulu798&repo=TyporaCrack&theme=tokyonight)](https://github.com/hulu798/TyporaCrack)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hulu798&repo=hulu798.github.io&theme=tokyonight)](https://github.com/hulu798/hulu798.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hulu798&repo=C_Code&theme=tokyonight)](https://github.com/hulu798/hulu798.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hulu798&repo=C_Code&theme=tokyonight)](https://github.com/hulu798/hulu798.C_Code)
 
 </div>
 
