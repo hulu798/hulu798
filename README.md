@@ -118,7 +118,7 @@
 <div align="center">
   <a href="https://github.com/hulu798"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://hulu798.github.io"><img src="https://img.shields.io/badge/-个人网站-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-邮箱联系-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:3049366180@qq.com"><img src="https://img.shields.io/badge/-邮箱联系-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 <div align="center">
